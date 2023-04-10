@@ -1,0 +1,19 @@
+.main {
+   width: 90%;
+   max-width: 1440px;
+   margin: auto;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   background-image: url(/src/assets/icons/hero-net.svg);
+   background-repeat: no-repeat;
+   background-position: center;
+   min-height: 30rem;
+   padding-top: 1rem;
+   color: white;
+   text-align: center;
+}
+
+.no-bg {
+   background-image: none;
+}
