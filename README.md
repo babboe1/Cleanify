@@ -2,7 +2,7 @@
 
 Cleanify is a web application that removes instances of a duplicate character from texts or strings, leaving just one occurrence of the character in the string, to simply put, it is a duplicate character remover. <br/>
 Click the link below to go to the live view of cleanify <br/>
-[CLEANIFY LIVE PREVIEW](https://cleanify-app.netlify.app/)
+[CLEANIFY LIVE PREVIEW](https://cleanify-web.netlify.app/)
 
 ## Installation
 
